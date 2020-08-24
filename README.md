@@ -13,7 +13,7 @@
 
 ### - I'm 18 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
 
-<img hight="400" width="500" alt="GIF" align="right" src="assets/giphy.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/jfcode27/JFCODE27/blob/master/assets/giphy.gif">
 
 ### - Learning :
 - ✨ Tensorflow
