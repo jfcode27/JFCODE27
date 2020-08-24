@@ -1,7 +1,7 @@
 # Hey 👋
 
 <div align="center">
-<img hight="500" width="100%" alt="GIF" align="center" src="assets/HonorableCarefreeGopher-size_restricted.gif">
+<img hight="500" width="100%" alt="GIF" align="center" src="https://github.com/jfcode27/JFCODE27/blob/master/assets/HonorableCarefreeGopher-size_restricted.gif">
 </div>
 
 </br>
