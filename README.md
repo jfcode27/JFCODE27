@@ -1,7 +1,7 @@
 # Hey 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="assets/HonorableCarefreeGopher-size_restricted.gif">
+<img hight="500" width="100%" alt="GIF" align="center" src="assets/HonorableCarefreeGopher-size_restricted.gif">
 </div>
 
 </br>
