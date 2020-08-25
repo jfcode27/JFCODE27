@@ -16,9 +16,7 @@
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/jfcode27/JFCODE27/blob/master/assets/giphy.gif">
 
 ### - Learning :
-- ✨ Tensorflow
-- ✨ Neural Style Transfer
-- ✨ Julia
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></p>
 
 ### - Hobbies : 
 - ✨ Gaming
