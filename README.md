@@ -21,7 +21,7 @@
 ### - Hobbies : 
 - 📣 Gaming
 - 📣 Watch Series
-- 📣 Play the guitar
+
 
 
 </br>
