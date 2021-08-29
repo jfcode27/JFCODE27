@@ -30,7 +30,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/zeider27?si=fa35358f6e69473d)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zeider27&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
