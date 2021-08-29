@@ -28,7 +28,11 @@
 </br>
 </br>
 
+### Spotify Playing 🎧
 
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/zeider27?si=fa35358f6e69473d)
+
+---
 
 # Languages & Tools 💻 🛠:
 </br>
