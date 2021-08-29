@@ -1,7 +1,7 @@
 # Hi I'm Jeremy Franco 👋
 
 <div align="center">
-<img hight="500" width="100%" alt="GIF" align="center" src="https://github.com/jfcode27/JFCODE27/blob/master/assets/Tenor.gif">
+<img hight="500" width="100%" alt="GIF" align="center" src="https://github.com/jfcode27/JFCODE27/blob/master/assets/tenor.gif">
 </div>
 
 </br>
@@ -52,7 +52,7 @@
 
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=jfcode27&&show_icons=true&theme=great-gatsby"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=jfcode27&&show_icons=true&theme=github_dark"/>
   </a>
   </p>
 
