@@ -1,7 +1,7 @@
 # Hi I'm Jeremy Franco 👋
 
 <div align="center">
-<img hight="500" width="50%" alt="GIF" align="center" src="https://github.com/jfcode27/JFCODE27/blob/master/assets/goku.gif">
+<img hight="500" width="70%" alt="GIF" align="center" src="https://github.com/jfcode27/JFCODE27/blob/master/assets/goku.gif">
 </div>
 
 </br>
