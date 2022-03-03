@@ -17,8 +17,8 @@
 <b>Age:</b> 20</li>
 <li>
 <b>Career:</b> Software Engineering</li>
-<li>
-<b>Working @:</b> Sapphire Development</li>
+
+
 
 ### Spotify Playing 🎧
 
